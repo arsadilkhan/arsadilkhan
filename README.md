@@ -7,6 +7,14 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+** This is bold text **
+* * Italic * *
+~~ Strikethrough ~~
+** This is --verry-- important **
+*** IMPORTANT ***
+<sub> ARSLAN </sub>
+<sup> ADILKHAN </sup>
+
 <!--
 **arsadilkhan/arsadilkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
