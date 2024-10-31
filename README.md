@@ -7,11 +7,11 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-** This is bold text **
-* * Italic * *
-~~ Strikethrough ~~
-** This is --verry-- important **
-*** IMPORTANT ***
+**This is bold text**
+* *Italic* *
+~~Strikethrough~~
+**This is _verry_ important**
+***IMPORTANT***
 <sub> ARSLAN </sub>
 <sup> ADILKHAN </sup>
 
