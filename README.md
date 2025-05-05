@@ -22,6 +22,7 @@ I'm **Arslan**, a data analyst with hands-on experience in **Excel**, **Power BI
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
 | [Business Insights from DVD Rental](./projects/sql-dvdrental/README.md) | Data retrieval, joins, aggregations | Answered business questions using SQL on the PostgreSQL DVD Rental dataset. Demonstrates proficiency in joins, filtering, grouping, and subqueries. |
+| [SQL Simulators](./projects/sql-simulators/README.md) | Practice Problems | A collection of solved SQL challenges from interactive platforms. Includes screenshots and solutions demonstrating proficiency across various SQL topics. |
 
 ## Excel Projects
 
