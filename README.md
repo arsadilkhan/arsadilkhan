@@ -1,31 +1,14 @@
-### Hi there 1 
-## Hi there 2
-# Hi there 3
+# Hello there! 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+I'm **Arslan**, a data analyst with hands-on experience in **Excel**, **Power BI**, and **SQL**.
 
-**This is bold text**
-* *Italic* *
-~~Strikethrough~~
-**This is _verry_ important**
-***IMPORTANT***
-<sub> ARSLAN </sub>
-<sup> ADILKHAN </sup>
+## About Me
 
-<!--
-**arsadilkhan/arsadilkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Background in **Finance & Accounting** with 9 years of experience in **Global Mobility Taxation**, **US & Canadian Tax Compliance**, and **Expat Tax Consulting**
+- **MBA** (Top of the class) from **Nazarbayev University Graduate School of Business**, in partnership with **Duke University**
+- **Product Management** experience in a 0 to 1 **FoodTech startup**
+- Currently working as a **Data Analyst in AutoTech**
 
-Here are some ideas to get you started:
+## Data Analytics Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Projects coming soon..._
