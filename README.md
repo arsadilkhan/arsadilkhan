@@ -26,7 +26,10 @@ I'm **Arslan**, a data analyst with hands-on experience in **Excel**, **Power BI
 
 ## Excel Projects
 
-_Work in progress._
+| Project Link | Area of Analysis | Project Description |
+| ------------ | ---------------- | ------------------- |
+| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Created an interactive Excel dashboard to analyze coffee sales. Includes data preprocessing, pivot tables, and dynamic visualizations to track order trends and customer behavior. |
+
 
 ## Power BI Projects
 
