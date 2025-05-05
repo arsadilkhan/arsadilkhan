@@ -10,3 +10,6 @@ This project showcases an Excel-based interactive dashboard built from raw coffe
 - Applied conditional formatting and clean layout for clear data storytelling
 
 The dashboard provides a concise, visual summary of trends in coffee sales and supports quick insights for business decisions.
+
+# Screenshot of the Coffee Orders Dashboard
+![coffeeOrders](./images/coffeeorders.png)
