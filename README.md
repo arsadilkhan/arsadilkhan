@@ -33,4 +33,7 @@ I'm **Arslan**, a data analyst with hands-on experience in **Excel**, **Power BI
 
 ## Power BI Projects
 
-_Work in progress._
+| Project Link | Area of Analysis | Project Description |
+| ------------ | ---------------- | ------------------- |
+| [DVD Rental Reports](./projects/powerbi-dvdrental/README.md) | Interactive reporting, data modeling, visualization | Built a Power BI report on the DVD Rental dataset. Includes dynamic visuals to explore rental revenue by store, genre-based movie trends, actor popularity, and customer-specific behavior using slicers, filters, and DAX measures. |
+
