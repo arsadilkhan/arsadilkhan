@@ -51,16 +51,13 @@ This Power BI project is built using the classic **DVD Rental** PostgreSQL datab
 
 ---
 
-## 📁 Files Included
+## 📷 Screenshot
 
-- `/images/` – Screenshots of key visuals  
-- `/exports/dvdrental_report.pdf` – Exported PDF version of the dashboard
+![Main Dashboard](./images/screenshot.png)
 
 ---
 
-## 📷 Screenshots
+## 📄 Exported Report (PDF)
 
-> *(Add screenshots here using Markdown syntax once uploaded)*
+[📥 View Full Dashboard PDF](./exports/dvd_rental_dash.pdf)
 
-```markdown
-![dvdrental_dash](./images/screenshot.png)
