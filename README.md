@@ -22,13 +22,12 @@ Currently working as a Data Analyst, building reports and analytics for decision
 
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
-| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Built an Excel dashboard to track sales performance, customer behavior, and order trends. Automated reporting with pivot tables and formulas to replace manual analysis.
- |
+| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Built an Excel dashboard to track sales performance, customer behavior, and order trends. Automated reporting with pivot tables and formulas to replace manual analysis. |
 
 
 ## Power BI Projects
 
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
-| [DVD Rental Reports](./projects/powerbi-dvdrental/README.md) | Interactive reporting, data modeling, visualization | Built a Power BI report on the DVD Rental dataset. Includes dynamic visuals to explore rental revenue by store, genre-based movie trends, actor popularity, and customer-specific behavior using slicers, filters, and DAX measures. |
+| [DVD Rental Reports](./projects/powerbi-dvdrental/README.md) | Interactive reporting, data modeling, visualization | Built a Power BI dashboard to analyze revenue, customer behavior, and product performance. Includes interactive slicers, DAX measures, and drill-downs for business users. |
 
