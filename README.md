@@ -1,5 +1,6 @@
-I help business teams turn raw data into clear dashboards and KPIs using Excel, Power BI, and SQL.
-Currently working as a Data Analyst, building reports and analytics for decision-making.
+**I help business teams turn raw data into clear dashboards and KPIs using Excel, Power BI, and SQL.
+Currently working as a Data Analyst, building automated reports and business analytics.**
+
 
 
 ## Table of Contents
