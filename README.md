@@ -13,15 +13,9 @@ Currently working as a Data Analyst, building reports and analytics for decision
 ## SQL Projects
 
 | Project Link | Area of Analysis | Project Description |
-| ------------ | ---------------- | ------------------- |
-| [Sales & Customer Analysis using SQL (PostgreSQL)](./projects/sql-dvdrental/README.md) | Data retrieval, joins, aggregations | Analyzed sales and customer behavior using SQL to answer real business questions:
-- revenue by category
-- customer lifetime value
-- top-performing products
-- store-level performance
+|-------------|-----------------|---------------------|
+| [Sales & Customer Analysis using SQL (PostgreSQL)](./projects/sql-dvdrental/README.md) | Data retrieval, joins, aggregations | Analyzed sales and customer behavior using SQL to answer real business questions: revenue by category, customer lifetime value, top-performing products, and store-level performance. Used joins, CTEs, aggregations, and subqueries. |
 
-Used joins, CTEs, aggregations, and subqueries.
-|
 
 
 ## Excel Projects
