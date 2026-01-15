@@ -15,7 +15,7 @@ Currently working as a Data Analyst, building automated reports and business ana
 
 | Project Link | Area of Analysis | Project Description |
 |-------------|-----------------|---------------------|
-| [Sales & Customer Analysis using SQL (PostgreSQL)](./projects/sql-dvdrental/README.md) | Data retrieval, joins, aggregations | Analyzed sales and customer behavior using SQL to answer real business questions: revenue by category, customer lifetime value, top-performing products, and store-level performance. Used joins, CTEs, aggregations, and subqueries. |
+| [Sales & Customer Analysis using SQL (PostgreSQL)](./projects/sql-dvdrental/README.md) | Data retrieval, joins, aggregations | Analyzed sales and customer behavior using SQL to answer real business questions and support decision-making: revenue by category, customer lifetime value, top-performing products, and store-level performance. |
 
 
 
@@ -23,7 +23,7 @@ Currently working as a Data Analyst, building automated reports and business ana
 
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
-| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Built an Excel dashboard to track sales performance, customer behavior, and order trends. Automated reporting with pivot tables and formulas to replace manual analysis. |
+| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Automated recurring reporting with pivot tables and formulas, replacing manual Excel analysis. |
 
 
 ## Power BI Projects
