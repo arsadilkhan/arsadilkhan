@@ -1,13 +1,6 @@
-# Hello there
+I help business teams turn raw data into clear dashboards and KPIs using Excel, Power BI, and SQL.
+Currently working as a Data Analyst, building reports and analytics for decision-making.
 
-I'm **Arslan**, a data analyst with hands-on experience in **Excel**, **Power BI**, and **SQL**.
-
-## About Me
-
-- Background in **Finance** with 9 years of experience in **Global Mobility Taxation**, **US & Canadian Tax Compliance**, and **Expat Tax Consulting**
-- **MBA** (Top of the class) from **Nazarbayev University Graduate School of Business**, in partnership with **Duke University**
-- **Product Management** experience in a 0 to 1 **FoodTech startup**
-- Currently working as a **Data Analyst in AutoTech**
 
 ## Table of Contents
 
