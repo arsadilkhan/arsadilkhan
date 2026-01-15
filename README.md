@@ -22,7 +22,8 @@ Currently working as a Data Analyst, building reports and analytics for decision
 
 | Project Link | Area of Analysis | Project Description |
 | ------------ | ---------------- | ------------------- |
-| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Created an interactive Excel dashboard to analyze coffee sales. Includes data preprocessing, pivot tables, and dynamic visualizations to track order trends and customer behavior. |
+| [Coffee Orders Dashboard](./projects/excel-coffee-orders/README.md) | Excel dashboarding, data cleaning | Built an Excel dashboard to track sales performance, customer behavior, and order trends. Automated reporting with pivot tables and formulas to replace manual analysis.
+ |
 
 
 ## Power BI Projects
