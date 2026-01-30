@@ -18,8 +18,8 @@ Clean and prepare the raw `playstore.csv` dataset for downstream analytics and B
 - Python, Pandas, Jupyter
 
 ## Output
-- `playstore_cleaned.csv`
-- `playstore_cleaning.ipynb`
+- `playstore_cleaning.md` — documented data cleaning steps
+- `playstore_cleaned.csv` — BI-ready dataset
 
 ## Next Step
 Dataset is used for Power BI visualization.
